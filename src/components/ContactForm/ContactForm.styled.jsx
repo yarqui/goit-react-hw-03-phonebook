@@ -42,7 +42,7 @@ export const AddButton = styled.button`
   align-self: center;
 
   background-color: #a5f7ff;
-  border: 0px;
+  border: 1px solid #62c0c9;
   border-radius: 5px;
 
   transition: 300ms cubic-bezier(0.4, 0, 0.2, 1);
